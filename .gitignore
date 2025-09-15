@@ -1,0 +1,27 @@
+
+# Node.js
+node_modules/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Ambiente
+.env
+
+# Logs
+*.log
+
+# IDE/config
+.idea/
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Documentação interna
+ROADMAP-interno.md
